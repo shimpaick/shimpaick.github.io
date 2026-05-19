@@ -146,23 +146,25 @@
           <p class="section-label">Get in Touch</p>
           <h2 class="section-title">Contact Us</h2>
           <div class="divider"></div>
-          <div class="form-field">
-            <label>Full Name</label>
-            <input type="text" placeholder="Your name">
-          </div>
-          <div class="form-field">
-            <label>Email Address</label>
-            <input type="email" placeholder="your@email.com">
-          </div>
-          <div class="form-field">
-            <label>Phone Number</label>
-            <input type="tel" placeholder="(212) 000-0000">
-          </div>
-          <div class="form-field">
-            <label>Message</label>
-            <textarea placeholder="Briefly describe your legal matter…"></textarea>
-          </div>
-          <button class="btn-primary" style="width:100%">Send Message</button>
+          <form action="https://formspree.io/f/mlgvgbya" method="POST">
+            <div class="form-field">
+              <label>Full Name</label>
+              <input type="text" placeholder="Your name" name="name">
+            </div>
+            <div class="form-field">
+              <label>Email Address</label>
+              <input type="email" placeholder="your@email.com" name="email">
+            </div>
+            <div class="form-field">
+              <label>Phone Number</label>
+              <input type="tel" placeholder="(212) 000-0000" name="phone">
+            </div>
+            <div class="form-field">
+              <label>Message</label>
+              <textarea placeholder="Briefly describe your legal matter…" name="msg"></textarea>
+            </div>
+            <button class="btn-primary" style="width:100%" type="submit">Send Message</button>
+          </form>
           <p class="form-note">Note: Please do not submit confidential information. Submitting this form does not create an attorney-client relationship.</p>
         </div>
         <div class="contact-info">
@@ -171,8 +173,11 @@
           <div class="contact-block">
             <h4>Phone</h4>
             <a class="contact-phone">
-              <!-- TODO -->
-              XXX-XXX-XXXX
+              201-224-3400
+            </a>
+            <h4>Fax</h4>
+            <a class="contact-phone">
+              201-224-3404
             </a>
           </div>
           <div class="contact-block">
