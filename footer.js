@@ -19,11 +19,11 @@ class SiteFooter extends HTMLElement {
             <div class="footer-col">
               <!-- TODO -->
               <h5>Contact</h5>
-              <p>XXX-XXX-XXXX</p>
-              <p>Addr1</p>
-              <p>City, State XXXXX</p>
-              <p style="margin-top:10px">Addr2</p>
-              <p>City, State XXXXX</p>
+              <p>201-224-3400</p>
+              <p>272 State Rt 5</p>
+              <p>Fort Lee, NJ 07024</p>
+              <p>skshim.legal@gmail.com for Real Estate</p>
+              <p>paicklaw@gmail.com for Immigration</p>
             </div>
           </div>
           <div class="footer-bottom">

@@ -7,7 +7,7 @@ class SiteHeader extends HTMLElement {
           <li>
             <span>About ▾</span>
             <div class="dropdown">
-              <a href="shim.html">Sangkoo Shim</a>
+              <a href="shim.html">Shangkoo Shim</a>
               <a href="paick.html">Ieback Paick</a>
             </div>
           </li>
