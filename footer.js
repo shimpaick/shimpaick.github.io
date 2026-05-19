@@ -10,7 +10,7 @@ class SiteFooter extends HTMLElement {
             </div>
             <div class="footer-col">
               <h5>Navigation</h5>
-              <a href="shim.html">Sangkoo Shim</a>
+              <a href="shim.html">Shangkoo Shim</a>
               <a href="paick.html">Ieback Paick</a>
               <a href="real-estate.html">Real Estate</a>
               <a href="immigration.html">Immigration</a>
