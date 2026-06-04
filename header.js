@@ -14,6 +14,7 @@ class SiteHeader extends HTMLElement {
           <li>
             <span>Practice Areas ▾</span>
             <div class="dropdown">
+              <a href="wills-trusts.html">Wills & Trusts</a>
               <a href="real-estate.html">Real Estate</a>
               <a href="immigration.html">Immigration</a>
             </div>
