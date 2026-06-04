@@ -12,6 +12,7 @@ class SiteFooter extends HTMLElement {
               <h5>Navigation</h5>
               <a href="shim.html">Shangkoo Shim</a>
               <a href="paick.html">Ieback Paick</a>
+              <a href="wills-trusts.html">Wills & Trusts</a>
               <a href="real-estate.html">Real Estate</a>
               <a href="immigration.html">Immigration</a>
               <a href="faq.html">FAQs</a>
